@@ -1,0 +1,48 @@
+.required{
+	border:1px solid red;
+}
+
+.simile_main{
+	float:left; 
+	position:relative; 
+	clear:both; 
+	width:95%; 
+	padding:20px;
+}
+
+.simile_section{
+	margin:10 0; 
+	padding:10; 
+	background:#eee;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.simile_section h1{
+	margin:5px 5px 5px 0px;
+	display:inline;
+}
+
+.simile_section h2{
+	margin:5px 5px 5px 0px;
+	display:inline-block;
+}
+
+.toggle{
+	cursor:pointer;
+	cursor:hand;
+}
+
+.hidden{
+	display:none;
+}
+
+.display{
+	display:block;
+}
+
+.simile_button{
+	padding:10px;
+	font-weight:bold;
+}
